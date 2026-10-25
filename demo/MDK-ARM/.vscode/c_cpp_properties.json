@@ -3,19 +3,18 @@
         {
             "name": "demo",
             "includePath": [
-                "d:\\STM32_Project\\BootLoader\\demo\\Core\\Inc",
-                "d:\\STM32_Project\\BootLoader\\demo\\Drivers\\STM32F4xx_HAL_Driver\\Inc",
-                "d:\\STM32_Project\\BootLoader\\demo\\Drivers\\STM32F4xx_HAL_Driver\\Inc\\Legacy",
-                "d:\\STM32_Project\\BootLoader\\demo\\Drivers\\CMSIS\\Device\\ST\\STM32F4xx\\Include",
-                "d:\\STM32_Project\\BootLoader\\demo\\Drivers\\CMSIS\\Include",
-                "d:\\STM32_Project\\BootLoader\\demo\\BSP",
-                "D:\\KEIL\\ARM\\ARMCC\\include",
-                "D:\\KEIL\\ARM\\ARMCC\\include\\arm_linux",
-                "D:\\KEIL\\ARM\\ARMCC\\include\\arm_linux_compat",
-                "D:\\KEIL\\ARM\\ARMCC\\include\\rw",
-                "d:\\STM32_Project\\BootLoader\\demo\\MDK-ARM",
-                "d:\\STM32_Project\\BootLoader\\demo\\Core\\Src",
-                "d:\\STM32_Project\\BootLoader\\demo\\Drivers\\STM32F4xx_HAL_Driver\\Src"
+                "d:\\STM32_Project\\Bootloader\\STM-\\demo\\Core\\Inc",
+                "d:\\STM32_Project\\Bootloader\\STM-\\demo\\Drivers\\STM32F4xx_HAL_Driver\\Inc",
+                "d:\\STM32_Project\\Bootloader\\STM-\\demo\\Drivers\\STM32F4xx_HAL_Driver\\Inc\\Legacy",
+                "d:\\STM32_Project\\Bootloader\\STM-\\demo\\Drivers\\CMSIS\\Device\\ST\\STM32F4xx\\Include",
+                "d:\\STM32_Project\\Bootloader\\STM-\\demo\\Drivers\\CMSIS\\Include",
+                "d:\\STM32_Project\\Bootloader\\STM-\\demo\\BSP",
+                "d:\\STM32_Project\\Bootloader\\STM-\\demo\\APP",
+                "D:\\Keil\\Keil\\ARM\\ARMCC\\include",
+                "D:\\Keil\\Keil\\ARM\\ARMCC\\include\\rw",
+                "d:\\STM32_Project\\Bootloader\\STM-\\demo\\MDK-ARM",
+                "d:\\STM32_Project\\Bootloader\\STM-\\demo\\Core\\Src",
+                "d:\\STM32_Project\\Bootloader\\STM-\\demo\\Drivers\\STM32F4xx_HAL_Driver\\Src"
             ],
             "defines": [
                 "USE_HAL_DRIVER",

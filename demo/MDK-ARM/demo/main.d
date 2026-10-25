@@ -7,7 +7,7 @@ demo\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h
 demo\main.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h
 demo\main.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f407xx.h
 demo\main.o: ../Drivers/CMSIS/Include/core_cm4.h
-demo\main.o: D:\KEIL\ARM\ARMCC\Bin\..\include\stdint.h
+demo\main.o: D:\Keil\Keil\ARM\ARMCC\Bin\..\include\stdint.h
 demo\main.o: ../Drivers/CMSIS/Include/cmsis_version.h
 demo\main.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
 demo\main.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
@@ -15,7 +15,7 @@ demo\main.o: ../Drivers/CMSIS/Include/mpu_armv7.h
 demo\main.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h
 demo\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h
 demo\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
-demo\main.o: D:\KEIL\ARM\ARMCC\Bin\..\include\stddef.h
+demo\main.o: D:\Keil\Keil\ARM\ARMCC\Bin\..\include\stddef.h
 demo\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h
 demo\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h
 demo\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h
@@ -28,12 +28,15 @@ demo\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h
 demo\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h
 demo\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h
 demo\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h
+demo\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h
 demo\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h
 demo\main.o: ../Core/Inc/dma.h
+demo\main.o: ../Core/Inc/spi.h
 demo\main.o: ../Core/Inc/usart.h
-demo\main.o: D:\KEIL\ARM\ARMCC\Bin\..\include\stdio.h
-demo\main.o: D:\KEIL\ARM\ARMCC\Bin\..\include\stdlib.h
-demo\main.o: D:\KEIL\ARM\ARMCC\Bin\..\include\string.h
+demo\main.o: D:\Keil\Keil\ARM\ARMCC\Bin\..\include\stdio.h
+demo\main.o: D:\Keil\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
+demo\main.o: D:\Keil\Keil\ARM\ARMCC\Bin\..\include\string.h
 demo\main.o: ../Core/Inc/gpio.h
 demo\main.o: ../BSP/BootLoader.h
 demo\main.o: ../BSP/Key.h
+demo\main.o: ../BSP/w25q128.h

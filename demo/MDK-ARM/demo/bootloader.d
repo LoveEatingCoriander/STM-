@@ -9,7 +9,7 @@ demo\bootloader.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h
 demo\bootloader.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h
 demo\bootloader.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f407xx.h
 demo\bootloader.o: ../Drivers/CMSIS/Include/core_cm4.h
-demo\bootloader.o: D:\KEIL\ARM\ARMCC\Bin\..\include\stdint.h
+demo\bootloader.o: D:\Keil\Keil\ARM\ARMCC\Bin\..\include\stdint.h
 demo\bootloader.o: ../Drivers/CMSIS/Include/cmsis_version.h
 demo\bootloader.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
 demo\bootloader.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
@@ -17,7 +17,7 @@ demo\bootloader.o: ../Drivers/CMSIS/Include/mpu_armv7.h
 demo\bootloader.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h
 demo\bootloader.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h
 demo\bootloader.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
-demo\bootloader.o: D:\KEIL\ARM\ARMCC\Bin\..\include\stddef.h
+demo\bootloader.o: D:\Keil\Keil\ARM\ARMCC\Bin\..\include\stddef.h
 demo\bootloader.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h
 demo\bootloader.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h
 demo\bootloader.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h
@@ -30,7 +30,8 @@ demo\bootloader.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h
 demo\bootloader.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h
 demo\bootloader.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h
 demo\bootloader.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h
+demo\bootloader.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h
 demo\bootloader.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h
-demo\bootloader.o: D:\KEIL\ARM\ARMCC\Bin\..\include\stdio.h
-demo\bootloader.o: D:\KEIL\ARM\ARMCC\Bin\..\include\stdlib.h
-demo\bootloader.o: D:\KEIL\ARM\ARMCC\Bin\..\include\string.h
+demo\bootloader.o: D:\Keil\Keil\ARM\ARMCC\Bin\..\include\stdio.h
+demo\bootloader.o: D:\Keil\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
+demo\bootloader.o: D:\Keil\Keil\ARM\ARMCC\Bin\..\include\string.h
