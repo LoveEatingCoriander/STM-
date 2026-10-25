@@ -20,7 +20,7 @@ demo2/MDK-ARM/demo/
 demo2/
 BootLoader_APP/
 serial_dma_demo/
-
+demo/
 # --- 编辑器配置 ---
 .vscode/
 .idea/
